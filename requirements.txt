@@ -10,4 +10,4 @@ python_dotenv == 0.13.0
 requests == 2.22.0
 
 # album_art/from_spotify_playlist.py: 13,14
-spotipy == 2.13.0
+spotipy == 2.22.1
